@@ -1,0 +1,3 @@
+lci main.lol
+
+pause
